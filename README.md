@@ -1,5 +1,3 @@
-# plant_handheld_terminal
-plant_handheld_terminal
 # AB32VG1 骄龙开发板 BSP 说明
 
 ## 简介
